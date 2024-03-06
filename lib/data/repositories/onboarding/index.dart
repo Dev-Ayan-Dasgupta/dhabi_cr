@@ -1,0 +1,16 @@
+export './map_register_retail_customer.dart';
+export './map_register_retail_customer_address.dart';
+export './map_register_user.dart';
+export './map_send_email_otp.dart';
+export './map_send_mobile_otp.dart';
+export './map_upload_eid.dart';
+export './map_upload_passport.dart';
+export './map_upload_personal_details.dart';
+export './map_validate_email.dart';
+export './map_verify_email_otp.dart';
+export './map_verify_mobile_otp.dart';
+export './map_customer_tax_information.dart';
+export './map_add_or_update_income_source.dart';
+export './map_if_eid_exists.dart';
+export './map_if_passport_exists.dart';
+export './map_create_customer.dart';

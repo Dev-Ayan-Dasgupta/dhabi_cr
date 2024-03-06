@@ -1,0 +1,2 @@
+String terms = "";
+String statement = "";

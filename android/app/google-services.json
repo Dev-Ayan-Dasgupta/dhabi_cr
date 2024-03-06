@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1058943174980",
+    "project_id": "dabi-a4f76",
+    "storage_bucket": "dabi-a4f76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058943174980:android:7b389d859ee3359c472f11",
+        "android_client_info": {
+          "package_name": "com.dhabi.digital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058943174980-tlsrt5kc9gmjbrdnmklfj79h4v0476g5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLIEUJE7YwrIrnUCyAAJv65uVYUw0NN6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058943174980-tlsrt5kc9gmjbrdnmklfj79h4v0476g5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1058943174980-6uv2mrtq8kaiuh9uol7mrg6njl58t5at.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dhabi.digital"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058943174980:android:e681f9f94ae38022472f11",
+        "android_client_info": {
+          "package_name": "com.fh.Dabi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058943174980-tlsrt5kc9gmjbrdnmklfj79h4v0476g5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLIEUJE7YwrIrnUCyAAJv65uVYUw0NN6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058943174980-tlsrt5kc9gmjbrdnmklfj79h4v0476g5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1058943174980-6uv2mrtq8kaiuh9uol7mrg6njl58t5at.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dhabi.digital"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
